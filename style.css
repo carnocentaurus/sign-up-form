@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Brunson';
+    src: url('fonts/Brunson.woff2') format('woff2'),
+        url('fonts/Brunson.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +21,21 @@ body {
 .image-div {
     width: 530px;
     height: 100vh;
+
     background-image: url('images/milad-fakurian-_zSZVxZWhkY-unsplash.jpg');
     background-position: center;
     background-size: cover;
+}
+
+.logo-div {
+    display: flex;
+}
+
+.logo-img {
+    width: 20px;
+}
+
+.logo-text {
+    font: 'Brunson';
+    color: #fff;
 }
