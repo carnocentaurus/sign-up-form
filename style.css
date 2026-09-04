@@ -9,7 +9,10 @@ body {
     margin: 0 200px;
 }
 
-img {
-    width: 330px;
+.image-div {
+    width: 530px;
     height: 100vh;
+    background-image: url('images/milad-fakurian-_zSZVxZWhkY-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
 }
