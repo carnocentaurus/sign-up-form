@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'Brunson';
-    src: url('fonts/Brunson.woff2') format('woff2'),
-        url('fonts/Brunson.woff') format('woff');
+    src: url('fonts/Brunson.ttf') format('truetype'),
+         url('fonts/Brunson.woff2') format('woff2'),
+         url('fonts/Brunson.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -36,6 +37,6 @@ body {
 }
 
 .logo-text {
-    font: 'Brunson';
+    font-family: 'Brunson';
     color: #fff;
 }
