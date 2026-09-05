@@ -8,6 +8,16 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Regular.woff2') format('woff2'),
+         url('fonts/Roboto-Regular.woff') format('woff'),
+         url('fonts/Roboto.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -67,6 +77,10 @@ body {
 
 .form-content-div > div {
     background-color: #666a6d;
+}
+
+.paragraph {
+    font-family: 'Roboto';
 }
 
 form {
