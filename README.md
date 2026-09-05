@@ -68,7 +68,7 @@ To be explicit, since this is a learning exercise:
 
 ## Credits
 
-- - Photo by [Milad Fakurian](https://unsplash.com/@fakurian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-curved-object-_zSZVxZWhkY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Photo by [Milad Fakurian](https://unsplash.com/@fakurian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-a-curved-object-_zSZVxZWhkY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 - Form icon from [SVG Repo](https://www.svgrepo.com/svg/457957/form)
 - Project brief and guidance from [The Odin Project](https://www.theodinproject.com/) curriculum
 
