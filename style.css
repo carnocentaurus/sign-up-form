@@ -79,8 +79,20 @@ body {
     background-color: #666a6d;
 }
 
-.paragraph {
+.text-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+
+    padding: 30px;
+}
+
+.paragraph, .sentence {
     font-family: 'Roboto';
+    font-size: 1rem;
+    font-weight: bold;
+    color: #dbe2e9;
 }
 
 form {
