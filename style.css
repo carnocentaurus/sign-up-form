@@ -136,11 +136,11 @@ input {
 input:focus {
     outline: none;
     cursor: pointer;
-    border: 2px solid #3e424b;
+    outline: 2px solid #3e424b;
 }
 
 input:user-invalid {
-    border: 2px solid crimson;
+    outline: 2px solid crimson;
 }
 
 ::placeholder {
