@@ -118,3 +118,19 @@ label {
     letter-spacing: 1px;
     color: #dbe2e9;
 }
+
+input {
+    font-family: 'Roboto';
+    font-size: 0.8rem;
+    color: #3e424b;
+
+    background-color: #dbe2e9;
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    padding-left: 5px;
+}
+
+::placeholder {
+    color: #808588;
+}
