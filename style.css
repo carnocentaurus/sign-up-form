@@ -98,6 +98,7 @@ body {
 form {
     display: flex;
     align-items: center;
+    gap: 30px;
 
     background-color: #808588;
     padding: 30px;
@@ -105,9 +106,15 @@ form {
 
 ul {
     list-style-type: none;
-    margin-right: 30px;
+}
+
+li {
+    margin-bottom: 10px;
 }
 
 label {
     font-family: 'Brunson';
+    font-size: 0.7rem;
+    letter-spacing: 1px;
+    color: #dbe2e9;
 }
