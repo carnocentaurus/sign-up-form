@@ -96,5 +96,13 @@ body {
 }
 
 form {
+    display: flex;
+    align-items: center;
+
     background-color: #808588;
+    padding: 30px;
+}
+
+form ul {
+    list-style-type: none;
 }
