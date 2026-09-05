@@ -103,6 +103,11 @@ form {
     padding: 30px;
 }
 
-form ul {
+ul {
     list-style-type: none;
+    margin-right: 30px;
+}
+
+label {
+    font-family: 'Brunson';
 }
