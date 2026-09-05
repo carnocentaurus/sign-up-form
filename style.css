@@ -27,7 +27,7 @@
 body {
     display: flex;
     margin: 0 200px;
-    background-color: #333;
+    background-color: #3e424b;
 }
 
 .image-div {
@@ -133,4 +133,26 @@ input {
 
 ::placeholder {
     color: #808588;
+}
+
+.button-div {
+    padding: 30px;
+}
+
+button[type='submit'] {
+    font-family: 'Roboto';
+    font-size: 1rem;
+    color: #dbe2e9;
+
+    border: none;
+    border-radius: 2px;
+    padding: 5px 10px;
+    background-color: #333;
+
+    margin-bottom: 10px;
+}
+
+button[type='submit']:hover {
+    cursor: pointer;
+    background-color: #3e424b;
 }
