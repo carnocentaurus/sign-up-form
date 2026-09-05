@@ -133,6 +133,10 @@ input {
     overflow-x: scroll;
 }
 
+input:user-invalid {
+    border: 1px solid crimson;
+}
+
 ::placeholder {
     color: #808588;
 }
