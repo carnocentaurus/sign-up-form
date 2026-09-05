@@ -133,8 +133,14 @@ input {
     overflow-x: scroll;
 }
 
+input:focus {
+    outline: none;
+    cursor: pointer;
+    border: 2px solid #3e424b;
+}
+
 input:user-invalid {
-    border: 1px solid crimson;
+    border: 2px solid crimson;
 }
 
 ::placeholder {
