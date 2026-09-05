@@ -53,3 +53,13 @@ body {
 
     color: #fff;
 }
+
+.form-content-div {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.form-content-div > * {
+    height: calc(100vh / 3);
+}
